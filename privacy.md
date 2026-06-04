@@ -1,6 +1,6 @@
 # Privacy Policy — Nexus Serial Terminal
 
-**Last updated:** 2026-01-28  
+**Last updated:** 2026-06-04  
 **Developer:** Sergio Lincastri  
 **Support contact:** s.lincastriapp@gmail.com
 
@@ -31,6 +31,8 @@ The app may request the following permissions:
 - **Bluetooth / Nearby devices**: required to scan, connect, and communicate with Bluetooth Classic and BLE devices.
 - **Location (if requested on your Android version)**: required by some Android versions to discover nearby Bluetooth devices.  
   The app **does not access, store, or share your GPS location**, and does not use location data for tracking.
+- **Notifications**: used to keep Bluetooth communication visible and reliable on supported Android devices.  
+  The app **does not use notifications for advertising, analytics, or tracking**.
 
 ## 5. Third-party services
 The app does not integrate third-party analytics or advertising services.  
